@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eastprovidenceplumbingco.com/sitemap.xml
